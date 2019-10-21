@@ -1,0 +1,4 @@
+# Created at 2019-10-21T09:44:44.445
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Pooja QA\com.facebook_login\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
